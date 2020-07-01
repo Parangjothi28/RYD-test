@@ -11,8 +11,6 @@ option3 = []
 option4 = []
 paper = []
 answer = []
-print(ord(txt[642]),txt[643],ord(txt[643]),txt[644],txt[645],txt[646],txt[647],txt[648],ord(txt[649]),txt[640],ord(txt[641]))
-print(txt)
 flag = 0
 word = ""
 prev = " "
